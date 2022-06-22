@@ -6,7 +6,7 @@ export default createGlobalStyle`
   padding: 0;
   box-sizing: border-box;
   font-family: "Roboto Mono", monospace;
-  color: #000000;
+  color: #ffffff;
   scroll-behavior: smooth;
   transition: ease-in-out;
   
